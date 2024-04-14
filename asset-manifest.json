@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chatRoomCDTT/static/css/main.75f27958.chunk.css",
+    "main.js": "/chatRoomCDTT/static/js/main.378a9285.chunk.js",
+    "main.js.map": "/chatRoomCDTT/static/js/main.378a9285.chunk.js.map",
+    "runtime-main.js": "/chatRoomCDTT/static/js/runtime-main.c4dba2cb.js",
+    "runtime-main.js.map": "/chatRoomCDTT/static/js/runtime-main.c4dba2cb.js.map",
+    "static/css/2.657911dd.chunk.css": "/chatRoomCDTT/static/css/2.657911dd.chunk.css",
+    "static/js/2.75d9a51a.chunk.js": "/chatRoomCDTT/static/js/2.75d9a51a.chunk.js",
+    "static/js/2.75d9a51a.chunk.js.map": "/chatRoomCDTT/static/js/2.75d9a51a.chunk.js.map",
+    "static/js/3.b126308f.chunk.js": "/chatRoomCDTT/static/js/3.b126308f.chunk.js",
+    "static/js/3.b126308f.chunk.js.map": "/chatRoomCDTT/static/js/3.b126308f.chunk.js.map",
+    "index.html": "/chatRoomCDTT/index.html",
+    "static/css/2.657911dd.chunk.css.map": "/chatRoomCDTT/static/css/2.657911dd.chunk.css.map",
+    "static/css/main.75f27958.chunk.css.map": "/chatRoomCDTT/static/css/main.75f27958.chunk.css.map",
+    "static/js/2.75d9a51a.chunk.js.LICENSE.txt": "/chatRoomCDTT/static/js/2.75d9a51a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4dba2cb.js",
+    "static/css/2.657911dd.chunk.css",
+    "static/js/2.75d9a51a.chunk.js",
+    "static/css/main.75f27958.chunk.css",
+    "static/js/main.378a9285.chunk.js"
+  ]
+}
