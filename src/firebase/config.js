@@ -5,13 +5,13 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 var firebaseConfig = {
-  apiKey: 'AIzaSyBRpDZ63mVfrzmzTjHFjRssP4cOvw_jc04',
-  authDomain: 'chat-app-c975a.firebaseapp.com',
-  projectId: 'chat-app-c975a',
-  storageBucket: 'chat-app-c975a.appspot.com',
-  messagingSenderId: '942648297216',
-  appId: '1:942648297216:web:d8c4321ba778c8808f95e5',
-  measurementId: 'G-01WLMKYFFM',
+  apiKey : "AIzaSyCbdcKzoneqxp3c0Ek6MIMMH8T2iy7GKbE" , 
+  authDomain : "firechat-31465.firebaseapp.com" , 
+  projectId : "firechat-31465" , 
+  storageBucket : "firechat-31465.appspot.com" , 
+  messagingSenderId : "355257303874" , 
+  appId : "1:355257303874:web:7c3bd1a67d7f5d87567edb" , 
+  measurementId : "G-0QMMRESJ11" 
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);

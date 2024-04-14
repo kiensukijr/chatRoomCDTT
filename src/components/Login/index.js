@@ -5,7 +5,7 @@ import { addDocument, generateKeywords } from '../../firebase/services';
 
 const { Title } = Typography;
 
-const fbProvider = new firebase.auth.FacebookAuthProvider();
+// const fbProvider = new firebase.auth.FacebookAuthProvider();
 const googleProvider = new firebase.auth.GoogleAuthProvider();
 
 export default function Login() {
@@ -37,12 +37,12 @@ export default function Login() {
           >
             Đăng nhập bằng Google
           </Button>
-          <Button
+          {/* <Button
             style={{ width: '100%' }}
             onClick={() => handleLogin(fbProvider)}
           >
             Đăng nhập bằng Facebook
-          </Button>
+          </Button> */}
         </Col>
       </Row>
     </div>
